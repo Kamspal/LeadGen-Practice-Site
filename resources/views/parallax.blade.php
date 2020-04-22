@@ -202,24 +202,12 @@
     </div>
 </section>
 
-<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="
-    width: 1428px;
-    height: 904px;
-">
-    <div class="container" style="
-    margin-left: 145px;
-    margin-right: 119px;
-    width: 1020px;
-    height: 686px;
-">
-    <div class="row equalize xs-equalize-auto equalize-display-inherit" style="
-    height: 646px;
-">
+<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="width: 1428px;height: 904px;">
+    <div class="container" style="margin-left: 145px;margin-right: 119px;width: 1020px;height: 686px;">
+    <div class="row equalize xs-equalize-auto equalize-display-inherit" style="height: 646px;">
         <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
-            <div class="display-table-cell-vertical-middle" style="height: 663px;
-">
-                <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="img/infographic-2.png" alt="graphic information" data-img-size="(W)984px X (H)1376px" style="
-    width: 565px;">
+            <div class="display-table-cell-vertical-middle" style="height: 663px;">
+                <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="img/infographic-2.png" alt="graphic information" data-img-size="(W)984px X (H)1376px" style="width: 565px;">
             </div>
         </div>
 
@@ -420,43 +408,159 @@
     </div>
 </section>
 
-<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="
-    width: 1428px;
-    height: 904px;">
-
-    <div class="container" style="
-    margin-left: 145px;
-    margin-right: 119px;
-    width: 1020px;
-    height: 686px;">
-    <div class="row equalize xs-equalize-auto equalize-display-inherit" style="
-    height: 646px;">
-    
-    <div class="col-md-6 col-sm-12 col-xs-12 display-table sm-height-auto" style="height: 686px;">
-        <div class="display-table-cell-vertical-middle">
-            <!-- Section Title -->
-            <div class="col-md-12 col-sm-12 col-xs-12" style="width: 595px; height: 180px;">
-                <h2 class="title-extra-large alt-font sm-section-title-small letter-spacing-minus-1 xs-section-title-large text-dark-gray margin-four-bottom xs-text-center tz-text" style="width: 535px; height: 40px;">
-                    Amazing Ultimate Features
-                </h2>
-                <p class="text-extra-large font-weight-300 margin-fifteen-bottom xs-margin-nineteen-bottom xs-text-center tz-text" style="width: 535px; margin-bottom: 42px;">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                </p>
+<section class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" style="height: 902px;">
+    <div class="container">
+        <div class="row equalize xs-equalize-auto equalize-display-inherit" style="height: 681px;margin-left: -15;">
+            <div class="col-lg-5 col-md-6 col-sm-6 xs-12 xs-text-center xs-margin-nineteen-bottom display-table">
+                <div class="display-table-cell-vertical-middle" style="height: 681px;">
+                    <div class="sm-margin-five-bottom alt-font text-fast-blue2 font-weight-500 text-extra-large tz-text" style="font-weight: 500 !important;">
+                        Discover our awesomess!
+                    </div>
+                    <!-- section title -->
+                        <h2 class="alt-font title-extra-large sm-title-large xs-title-large text-dark-gray margin-eight-bottom tz-text sm-margin-ten-bottom letter-spacing-minus-1">
+                            Create high converting landing page in minutes.
+                        </h2>
+                    <!-- end section title -->
+                    <div class="text-medium tz-text width-90 sm-width-100 margin-seven-bottom sm-margin-ten-bottom">
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                        </p>
+                    </div>
+                    <div class="text-medium tz-text width-90 sm-width-100 margin-fifteen-bottom sm-margin-ten-bottom">
+                        <p>
+                        Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer.
+                        </p>
+                    </div>
+                       <a class="btn propClone btn-circle bg-fast-blue2 text-white" href="#" style="width: 220px;">
+                           <span class="tz-text">Create your account</span>
+                                <i class="fa fa-angle-right text-extra-medium tz-icon-color" style="height: 24px;">
+                                </i>
+                       </a>
+                </div>
             </div>
-            <!-- end section title -->
-
-            
-            <div class="row two-column no-margin" style="width: 565px;height: 479px;">
-            <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
-            <div class="display-table-cell-vertical-middle" style="height: 663px;
-">
-                <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="img/infographic-2.png" alt="graphic information" data-img-size="(W)984px X (H)1376px" style="
-    width: 565px;">
+            <div class="col-lg-7 col-md-6 col-sm-6 xs-12 xs-text-center display-table" style="height: 681px;">
+                <div class="display-table-cell-vertical-middle" style="width: 664px;height: 680px;">
+                    <img src="img/application-screenshot-img-06.png" alt="application picture" style="width: 664px;">
+                </div>
             </div>
         </div>
-     </div>
     </div>
-  </div>
- </div>
-
 </section>
+
+<section class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
+            <div class="container" style="width: 1190px;height: 774px;margin-left: 119px;margin-right: 119px;">
+                <div class="row" style="height: 226px;">
+                    <!-- section title -->
+                    <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                        <h2 class="title-extra-large-2 letter-spacing-minus-1 text-dark-gray alt-font margin-three-bottom xs-margin-fifteen-bottom tz-text">Choose your favorite plan</h2>
+                        <div class="text-medium width-60 margin-lr-auto md-width-70 sm-width-100 tz-text margin-thirteen-bottom xs-margin-nineteen-bottom" style="width: 696px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+                    </div>
+                    <!-- end section title -->
+                </div>
+                <div class="row" style="height: 547px;">
+                    <div class="pricing-box-style4 display-inline-block width-100" style="height: 541px;">
+                        <!-- pricing item -->
+                    <div class="row">
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center xs-margin-nine-bottom" style="height: 541px;">
+                            <div class="pricing-box builder-bg tz-border border-2-fast-blue2" style="height: 541px;padding-top: 60px;padding-bottom: 60px;">
+                                <!-- pricing title -->
+                                <div class="pricing-title text-center">
+                                    <h3 class="alt-font text-large text-dark-gray tz-text">PERSONAL</h3>
+                                </div>
+                                <!-- end pricing title -->
+                                <!-- pricing price -->
+                                <div class="pricing-price bg-white builder-bg">
+                                    <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-fast-blue2 tz-text">$250</h4>
+                                    <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>PER EVERY YEAR</p> </div>
+                                </div>
+                                <!-- end pricing price -->
+                                <!-- pricing features -->
+                                <div class="pricing-features padding-top-15px">
+                                    <ul class="margin-twenty-three-bottom list-style-none">
+                                        <li class="tz-border"><span class="tz-text">1 GB Photos</span></li>
+                                        <li class="tz-border"><span class="tz-text">Secure Online Transfer</span></li>
+                                        <li class="tz-border"><span class="tz-text">Unlimited Styles</span></li>
+                                        <li class="tz-border"><span class="tz-text">Customer Service</span></li>
+                                        <li class="tz-border"><span class="tz-text">Manual Backup</span></li>
+                                    </ul>
+                                    <!-- pricing action -->
+                                    <div class="pricing-action">
+                                        <a class="btn-medium btn btn-circle bg-fast-blue2 text-white no-letter-spacing" href="#"><span class="tz-text">CHOOSE PLAN</span></a>
+                                    </div>
+                                    <!-- end pricing action -->
+                                </div>
+                                <!-- end pricing features -->
+                            </div>
+                        </div>
+                        <!-- end pricing item -->
+                        <!-- pricing item -->
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center xs-margin-nine-bottom" style="height: 541px;">
+                            <div class="pricing-box builder-bg tz-border border-2-fast-blue2" style="height: 541px;padding-top: 60px;padding-bottom: 60px;">
+                                <!-- pricing title -->
+                                <div class="pricing-title text-center">
+                                    <h3 class="alt-font text-large text-dark-gray tz-text">BUSINESS</h3>
+                                </div>
+                                <!-- end pricing title -->
+                                <!-- pricing price -->
+                                <div class="pricing-price bg-white builder-bg">
+                                    <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-fast-blue2 tz-text" style="margin-bottom: 0px;">$350</h4>
+                                    <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>PER EVERY YEAR</p> </div>
+                                </div>
+                                <!-- end pricing price -->
+                                <!-- pricing features -->
+                                <div class="pricing-features padding-top-15px">
+                                    <ul class="margin-twenty-three-bottom list-style-none">
+                                        <li class="tz-border"><span class="tz-text">2 GB Photos</span></li>
+                                        <li class="tz-border"><span class="tz-text">Secure Online Transfer</span></li>
+                                        <li class="tz-border"><span class="tz-text">Unlimited Styles</span></li>
+                                        <li class="tz-border"><span class="tz-text">Customer Service</span></li>
+                                        <li class="tz-border"><span class="tz-text">Manual Backup</span></li>
+                                    </ul>
+                                    <!-- pricing action -->
+                                    <div class="pricing-action">
+                                        <a class="btn-medium btn btn-circle bg-fast-blue2 text-white no-letter-spacing" href="#"><span class="tz-text">CHOOSE PLAN</span></a>
+                                    </div>
+                                    <!-- end pricing action -->
+                                </div>
+                                <!-- end pricing features -->
+                            </div>
+                        </div>
+                        <!-- end pricing item -->
+                        <!-- pricing item -->
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center" style="height: 541px;">
+                            <div class="pricing-box builder-bg tz-border border-2-fast-blue2" style="height: 541px;padding-top: 60px;padding-bottom: 60px;">
+                                <!-- pricing title -->
+                                <div class="pricing-title text-center">
+                                    <h3 class="alt-font text-large text-dark-gray tz-text">ULTIMATE</h3>
+                                </div>
+                                <!-- end pricing title -->
+                                <!-- pricing price -->
+                                <div class="pricing-price bg-white builder-bg">
+                                    <h4 class="title-extra-large-2 sm-title-extra-large-2 alt-font font-weight-500 text-fast-blue2 tz-text">$450</h4>
+                                    <div class="text-small2 alt-font tz-text no-margin-bottom"> <p>PER EVERY YEAR</p> </div>
+                                </div>
+                                <!-- end pricing price -->
+                                <!-- pricing features -->
+                                <div class="pricing-features padding-top-15px">
+                                    <ul class="margin-twenty-three-bottom list-style-none">
+                                        <li class="tz-border"><span class="tz-text">Unlimited Photos</span></li>
+                                        <li class="tz-border"><span class="tz-text">Secure Online Transfer</span></li>
+                                        <li class="tz-border"><span class="tz-text">Unlimited Styles</span></li>
+                                        <li class="tz-border"><span class="tz-text">Customer Service</span></li>
+                                        <li class="tz-borders"><span class="tz-text">Auto Backup</span></li>
+                                    </ul>
+                                    <!-- pricing action -->
+                                    <div class="pricing-action">
+                                        <a class="btn-medium btn btn-circle bg-fast-blue text-white no-letter-spacing" href="#"><span class="tz-text">CHOOSE PLAN</span></a>
+                                    </div>
+                                    <!-- end pricing action -->
+                            </div>
+                                </div>
+                                <!-- end pricing features -->
+                            </div>
+                        </div>
+                        <!-- end pricing item -->
+                    </div>
+                </div>
+            </div>
+        </section>

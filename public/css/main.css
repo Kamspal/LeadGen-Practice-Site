@@ -213,16 +213,6 @@ p {
   border-radius: 30px !important;
 }
 
-.btn {
-  display: inline-block;
-  border-radius: 4px;
-  width: auto;
-  font-family: "Montserrat", sans-serif !important;
-  font-weight: 400;
-  white-space: inherit;
-  cursor: pointer !important;
-}
-
 .bg-golden-yellow {
   background: #ecce63;
 }
@@ -285,11 +275,6 @@ section {
 
 .text-dark-gray {
   color: #282828 !important;
-}
-
-.btn-circle.btn-medium {
-  padding: 8px 25px !important;
-  line-height: 18px;
 }
 
 .border-2-fast-blue2 {
@@ -456,6 +441,63 @@ section {
 .text-extra-small {
   font-size: 10px !important;
   line-height: 15px;
+}
+
+.width-90 {
+  width: 90% !important;
+}
+
+.margin-seven-bottom {
+  margin-bottom: 4% !important;
+}
+
+.bg-fast-blue2 {
+  background: #1080f2;
+  line-height: 2;
+}
+
+.bg-fast-blue2:hover {
+  opacity: 0.7;
+}
+
+.bg-fast-blue {
+  background: #3966e6;
+}
+
+.bg-fast-blue:hover {
+  opacity: 0.7;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0 !important;
+}
+
+.text-small2 {
+  font-size: 11px !important;
+}
+
+.pricing-box-style4 .pricing-features {
+  padding: 35px 40px 0;
+}
+
+.padding-top-15px {
+  padding-top: 15px !important;
+}
+
+.list-style-none {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.margin-twenty-three-bottom {
+  margin-bottom: 12% !important;
+}
+
+.pricing-box-style4 .pricing-features ul li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px 0;
+  font-size: 14px;
 }
 
 footer {
