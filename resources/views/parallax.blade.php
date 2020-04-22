@@ -1,0 +1,462 @@
+<!-- NavBar -->
+<header class="content">
+    <nav class="navbar navbar-expand-md fixed-top nav-button-border">
+        <div class="container">
+            <div class="row">
+        
+            <!-- Logo -->
+            <div class="col-md-3 col-sm-4 col-xs-6 active">
+    <a class="navbar-brand" href="#">
+            <img src="img/logo-white.png" alt="company logo" height="35px" width="143px">
+    </a>
+            </div> 
+            <!-- end logo -->
+        <div class="col-md-9 col-sm-8 col-xs-6">      
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle Navigation</span>
+    </button>
+            <!-- Social Elements -->
+        <div class="social float-right pull-right">
+        <a href="#"><i class="fa fa-facebook tz-icon-color"></i></a>
+        <a href="#"><i class="fa fa-twitter tz-icon-color"></i></a>
+        <a href="#"><i class="fa fa-linkedin tz-icon-color"></i></a>
+        <a href="#"><i class="fa fa-google-plus tz-icon-color"></i></a>
+        </div>
+             <!-- End social elements -->
+
+    <div class="collapse navbar-collapse pull-right" id="navbarNav">
+        <ul class="nav navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">How it work</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Download</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+    </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- End NavBar -->
+
+<!-- BackgroundImage -->
+<section class="image" style="background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)) repeat scroll 0% 0%, transparent url(img/hero-bg12.jpg) repeat scroll 0% 0%;
+" width="1920px" height="800px">
+    <div class="container one-sixth-screen xs-height-auto position-relative">
+        <div class="row">
+            <div class="slider-typography xs-position-static text-center">
+                <div class="slider-text-middle-main">
+                    <div class="slider-text-middle text-center xs-padding-fifteen xs-no-padding-lr">
+                        <div class="col-md-9 col-sm-12 col-xs-12 center-col margin-twenty-five-top">
+                
+                <!-- Title -->
+                 <h1 class="title-extra-large-3 md-title-extra-large-2 xs-title-extra-large-3 letter-spacing-minus-1 text-white alt-font font-weight-600 margin-one-bottom sm-margin-three-bottom tz-text center-col">
+                Unique and bold functionality
+                </h1>
+
+                <div class="text-white text-extra-large font-weight-300 center-col xs-text-extra-large tz-text margin-eight-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom">
+                    <p class="sm-width-80 center-col">
+                      One of the best HTML templates for software, mobile application product.
+                    </p>
+                </div>
+
+                <!-- end Title -->
+
+    <div class="btn-dual">
+        <a class="btn btn-large propClone bg-golden-yellow text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#">
+    <span class="tz-text">Download Now</span>
+    <i class="fa fa-shopping-basket text-extra-medium tz-icon-color"></i>
+        </a>
+        <a class="btn btn-large propClone bg-white text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#">
+        <span class="tz-text">Read More</span>
+    <i class="fa fa-angle-right text-extra-medium tz-icon-color"></i>
+        </a>
+    </div>
+
+    </div>
+
+    <!-- Image -->
+        <div class="col-md-11 col-sm-12 col-xs-12 center-col margin-fourteen-top hero-bottom-img">
+            <img src="img/design-screenshot.jpg" class="width-100" alt="design picture" data-img-size="(W)1700px X (H)981px">
+        </div>
+
+    <!-- End Image -->
+            </div>
+         </div>
+        </div>
+    </div>
+  </div>
+</section>
+
+<section class="padding-60px-tb bg-light-grey builder-bg">
+    <div class="container">
+        <div class="row equalize">
+            <div class="col-md-12 col-sm-12 col-xs-12 text-center" style="height: 45px;">
+                <div class="display-inline-block sm-display-block vertical-align-middle margin-five-right sm-no-margin-right sm-margin-ten-bottom tz-text alt-font text-dark-gray text-extra-large sm-text-extra-large">
+                    Create Your Account Now! Get 30 days trial. No credit card required.
+                    </div>
+                    <a class="btn-medium btn text-fast-blue2 border-2-fast-blue2 btn-circle" href="#">
+                        <span class="tz-text">Register Today</span>
+                        <i class="fa fa-long-arrow-right text-extra-medium tz-icon-color">
+                        </i>
+                    </a>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="builder-bg padding-110px-tb xs-padding-60px-tb bg-white">
+    <div class="container" style="height:161px">
+        <div class="row four-column">
+<!-- 1st Feature-Box -->
+    <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
+        <div class="feature-box">
+            <div class="margin-fifteen-bottom xs-margin-five-bottom">
+                <i class="fa ti-desktop text-fast-blue2 icon-large tz-icon-color">
+                </i>
+            </div>
+        <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">
+            Boost Performance
+        </h3>
+        <div class="feature-text text-medium center-col tz-text">
+            <p class="no-margin-bottom">
+            Lorem Ipsum is simply dummy of the printing and typesetting and industry. Lorem Ipsum been.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- End feature-box -->
+
+<!-- 2nd Feature-box -->
+<div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
+        <div class="feature-box">
+            <div class="margin-fifteen-bottom xs-margin-five-bottom">
+                <i class="fa ti-clipboard text-fast-blue2 icon-large tz-icon-color">
+                </i>
+            </div>
+        <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">
+            Well Documented
+        </h3>
+        <div class="feature-text text-medium center-col tz-text">
+            <p class="no-margin-bottom">
+            Lorem Ipsum is simply dummy of the printing and typesetting and industry. Lorem Ipsum been.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- end 2nd feature-box -->
+
+<!-- 3rd Feature-box -->
+<div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
+        <div class="feature-box">
+            <div class="margin-fifteen-bottom xs-margin-five-bottom">
+                <i class="fa ti-settings text-fast-blue2 icon-large tz-icon-color">
+                </i>
+            </div>
+        <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">
+            Highly Customizable
+        </h3>
+        <div class="feature-text text-medium center-col tz-text">
+            <p class="no-margin-bottom">
+            Lorem Ipsum is simply dummy of the printing and typesetting and industry. Lorem Ipsum been.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- end 3rd feature-box -->
+
+<!-- 4th Feature-box -->
+<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+        <div class="feature-box">
+            <div class="margin-fifteen-bottom xs-margin-five-bottom">
+                <i class="fa ti-panel text-fast-blue2 icon-large tz-icon-color">
+                </i>
+            </div>
+        <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">
+            Friendly Admin
+        </h3>
+        <div class="feature-text text-medium center-col tz-text">
+            <p class="no-margin-bottom">
+            Lorem Ipsum is simply dummy of the printing and typesetting and industry. Lorem Ipsum been.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- end 4th feature-box -->
+        </div>
+    </div>
+</section>
+
+<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="
+    width: 1428px;
+    height: 904px;
+">
+    <div class="container" style="
+    margin-left: 145px;
+    margin-right: 119px;
+    width: 1020px;
+    height: 686px;
+">
+    <div class="row equalize xs-equalize-auto equalize-display-inherit" style="
+    height: 646px;
+">
+        <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
+            <div class="display-table-cell-vertical-middle" style="height: 663px;
+">
+                <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="img/infographic-2.png" alt="graphic information" data-img-size="(W)984px X (H)1376px" style="
+    width: 565px;">
+            </div>
+        </div>
+
+    <div class="col-md-6 col-sm-12 col-xs-12 display-table sm-height-auto" style="height: 686px;">
+        <div class="display-table-cell-vertical-middle">
+            <!-- Section Title -->
+            <div class="col-md-12 col-sm-12 col-xs-12" style="width: 595px; height: 180px;">
+                <h2 class="title-extra-large alt-font sm-section-title-small letter-spacing-minus-1 xs-section-title-large text-dark-gray margin-four-bottom xs-text-center tz-text" style="width: 535px; height: 40px;">
+                    Amazing Ultimate Features
+                </h2>
+                <p class="text-extra-large font-weight-300 margin-fifteen-bottom xs-margin-nineteen-bottom xs-text-center tz-text" style="width: 535px; margin-bottom: 42px;">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
+                </p>
+            </div>
+            <!-- end section title -->
+
+            <!-- Feature box -->
+            <div class="row two-column no-margin" style="width: 565px;height: 479px;">
+                <div class="col-md-6 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-fifteen-bottom xs-text-center">
+                    <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom" style="width: 35px;height: 41px;">
+                        <i class="fa ti-crown text-fast-blue2 title-extra-large tz-icon-color" style="width: 21px;height: 40px;">
+                        </i>
+                    </div>
+                
+                    <div class="info xs-no-margin xs-width-100 xs-clear-both" style="width: 192px;height: 123px;margin-left: 60px;">
+                      <h3 class="text-large alt-font margin-two-bottom text-dark-gray tz-text font-weight-600" style="height: 25px;margin-bottom: 2.8px;">
+                           Considered Design
+                       </h3>
+                            <div class="text-medium tz-text">
+                             <p>
+                                Lorem Ipsum is simply dummy text of the printing and typesetting dummy text industry.
+                             </p>
+                            </div>
+                    </div>
+                </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-fifteen-bottom xs-text-center">
+                        <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom" style="width: 35px;height: 41px;">
+                            <i class="fa ti-bookmark-alt text-fast-blue2 title-extra-large tz-icon-color" style="width: 21px;height: 40px;">
+                            </i>
+                        </div>
+                    
+                            <div class="info xs-no-margin xs-width-100 xs-clear-both" style="width: 192px;height: 123px;margin-left: 60px;">
+                                <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600" style="height: 25px;margin-bottom: 2.8px;">
+                                    Understand Situation
+                                </h3>
+                                <div class="text-medium tz-text">
+                                    <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting dummy text industry.
+                                    </p>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 xs-margin-fifteen-bottom xs-text-center">
+                        <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom" style="width: 35px;height: 41px;">
+                            <i class="fa ti-filter text-fast-blue2 title-extra-large tz-icon-color" style="width: 21px;height: 40px;">
+                             </i>
+                        </div>
+                    
+                        <div class="info xs-no-margin xs-width-100 xs-clear-both" style="width: 192px;height: 123px;margin-left: 60px;">
+                            <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600" style="height: 25px;margin-bottom: 2.8px;">
+                                Impeccable Service
+                            </h3>
+                            <div class="text-medium tz-text">
+                                <p>
+                                Lorem Ipsum is simply dummy text of the printing and typesetting dummy text industry.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+            <div class="col-md-6 col-sm-6 col-xs-12 xs-no-margin-bottom xs-text-center">
+                <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom" style="width: 35px;height: 41px;">
+                    <i class="fa ti-heart text-fast-blue2 title-extra-large tz-icon-color" style="width: 21px;height: 40px;">
+                    </i>
+                </div>
+
+                <div class="info xs-no-margin xs-width-100 xs-clear-both" style="width: 192px;height: 123px;margin-left: 60px;">
+                    <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600" style="height: 25px;margin-bottom: 2.8px;">
+                        Creative Collaboration
+                    </h3>
+                    <div class="text-medium tz-text">
+                        <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting dummy text industry.
+                        </p>
+                    </div>
+                </div>
+            </div>
+         </div>
+    
+            <!-- end feature box -->
+     </div>
+    </div>
+  </div>
+ </div>
+</section>
+
+<section class="padding-110px-tb xs-padding-60px-tb bg-white builder-bg border-none" style="height:504px;">
+    <div class="container" style="margin-left: 119px; margin-right: 119px; height: 283px;">
+    <!-- section Title -->
+        <div class="row" style="height: 283px;">
+            <div class="col-md-7 col-sm-12 col-xs-12 title-small sm-title-small text-center center-col" style="margin-left: 247.9;margin-right: 247.9;">
+                <span class="test text-fast-blue2 alt-font tz-text xs-margin-seven-bottom" style="font-family: 'Montserrat', sans-serif !important;
+    font-weight: 500 !important; height:19px; width:218px;">
+                    Launch your startup now!
+                </span>
+                <h2 class="title-extra-large-2 letter-spacing-minus-1 text-dark-gray alt-font display-block tz-text xs-margin-seven-bottom">
+                    Get the most amazing builder!
+                </h2>
+                <div class="text-medium display-block margin-three-top margin-six-bottom tz-text xs-margin-nine-bottom">
+                    <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the an unknown printer took a galley of type scrambled it to make a type specimen book.
+                    </p>
+                </div>
+                <a class="btn-medium btn-circle btn border-2-fast-blue2 btn-border text-fast-blue2" href="#">
+                    <span class="tz-text">
+                        BUILD WEBSITE
+                    </span>
+                    <i class="fa fa-long-arrow-right text-extra-medium tz-icon-color">
+                    </i>
+                </a>
+            </div>
+        </div>
+    <!-- end Title -->
+    </div>
+</section>
+
+<section class="no-padding cover-background tz-builder-bg-image border-none header-style25 bg-img-two" style="background:linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url('img/header-25.jpg'); height: 801px;width: 1428px;">
+    <div class="container one-fourth-screen sm-height-auto position-relative">
+        <div class="slider-typography text-center sm-position-relative">
+            <div class="slider-text-middle-main">
+                <div class="slider-text-middle text-left sm-padding-nineteen sm-no-padding-lr xs-text-center">
+                    <!-- slider text -->
+                        <div class="col-md-6 col-sm-12 col-xs-12 sm-text-center xs-no-padding-lr">
+                            <h1 class="title-extra-large-4 md-title-extra-large-3 line-height-65 sm-title-extra-large alt-font letter-spacing-minus-1 xs-title-extra-large text-white margin-eight-bottom sm-margin-four-bottom tz-text">
+                                Discover our awesome video presentation.
+                            </h1>
+                                <div class="text-white title-small line-height-34 font-weight-100 width-100 xs-text-extra-large tz-text margin-thirteen-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom">
+                                    <p>
+                                    Lorem Ipsum is simply dummy text of the printing & typesetting industry. Lorem Ipsum has been the industry's standard dummy. Lorem Ipsum is simply dummy text.
+                                    </p>
+                                </div>
+                                        <div class="btn-dual">
+                                            <a class="btn btn-large btn-circle propClone bg-white text-dark-gray xs-margin-lr-auto xs-float-none xs-display-block" href="#">
+                                                <span class="tz-text" style="width: 188px;height: 51px;margin-right: 0px;">
+                                                    WATCH VIDEO
+                                                </span>
+                                                    <i class="fa fa-play-circle text-extra-medium tz-icon-color">
+                                                    </i>
+                                            </a>
+                                        </div>
+                        </div>
+                     <!-- end slider text -->
+                        
+                                            <!-- Image -->
+                                    <div class="col-md-6 col-sm-12 col-xs-12 text-center outside-image sm-position-relative xs-no-padding-lr">
+                                        <div class="outside-image-sub height-80 margin-twenty-three-top">
+                                            <img src="img/infographic-4.png" alt="graphic information">
+                                        </div>
+                                    </div>                    
+                                            <!-- end Image -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-white builder-bg padding-110px-tb testimonial-style10 xs-padding-60px-tb">
+    <div class="container" style="width: 1220px;height: 131px;margin-left: 119px;margin-right: 119px;">
+        <div class="row" style="height: 131px;">
+            <!-- testomonial item -->
+            <div class="col-md-7 col-sm-9 col-xs-12 xs-text-center center-col" style="height: 1px;">
+                <div class="row" style="width: 900px;">
+                    <div class="col-md-3 col-sm-3 col-xs-12 sm-no-padding xs-margin-eleven-bottom">
+                        <img class="border-radius-100 width-95 xs-width-40" src="img/avtar-02.jpg" alt="boss picture" style="width: 129px;height: 129px; margin-left:70px;">
+                    </div>
+                            
+                            <div class="col-md-9 col-sm-9 col-xs-12 feature-box-details" style="height: 131px;">
+                            
+                                 <div class="text-medium float-left width-100 tz-text">
+                                    <p style="width: 468px;">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.
+                                    </p>
+                                </div>
+                                    <span class="tz-text font-weight-600 alt-font text-dark-gray sm-text-medium display-inline-block" style="width: 158px;height: 22px;">
+                                        KAMS PAL
+                                    </span> <br>
+                                    <span class="tz-text alt-font text-extra-small display-block">
+                                        OWN COMPANY
+                                    </span>
+                            </div>   
+                      </div>
+                </div>
+
+            <!-- end testomonial item -->
+        </div>
+    </div>
+</section>
+
+<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="
+    width: 1428px;
+    height: 904px;">
+
+    <div class="container" style="
+    margin-left: 145px;
+    margin-right: 119px;
+    width: 1020px;
+    height: 686px;">
+    <div class="row equalize xs-equalize-auto equalize-display-inherit" style="
+    height: 646px;">
+    
+    <div class="col-md-6 col-sm-12 col-xs-12 display-table sm-height-auto" style="height: 686px;">
+        <div class="display-table-cell-vertical-middle">
+            <!-- Section Title -->
+            <div class="col-md-12 col-sm-12 col-xs-12" style="width: 595px; height: 180px;">
+                <h2 class="title-extra-large alt-font sm-section-title-small letter-spacing-minus-1 xs-section-title-large text-dark-gray margin-four-bottom xs-text-center tz-text" style="width: 535px; height: 40px;">
+                    Amazing Ultimate Features
+                </h2>
+                <p class="text-extra-large font-weight-300 margin-fifteen-bottom xs-margin-nineteen-bottom xs-text-center tz-text" style="width: 535px; margin-bottom: 42px;">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
+                </p>
+            </div>
+            <!-- end section title -->
+
+            
+            <div class="row two-column no-margin" style="width: 565px;height: 479px;">
+            <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
+            <div class="display-table-cell-vertical-middle" style="height: 663px;
+">
+                <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="img/infographic-2.png" alt="graphic information" data-img-size="(W)984px X (H)1376px" style="
+    width: 565px;">
+            </div>
+        </div>
+     </div>
+    </div>
+  </div>
+ </div>
+
+</section>
