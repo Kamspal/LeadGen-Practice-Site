@@ -33,10 +33,14 @@
       });
     </script>
     <!-- End change color on scroll -->
-     
-        <footer>
-            © 2016 LeadGen is Proudly Powered By ThemeZaa.
-        </footer>
 
+    <!-- onclick-start your free trail button -->
+      <script>
+        
+      </script>
+
+    <!-- end onclick-start your free trail button -->
+
+     
   </body>
 </html>

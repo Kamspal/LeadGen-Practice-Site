@@ -448,7 +448,7 @@
 </section>
 
 <section class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
-            <div class="container" style="width: 1190px;height: 774px;margin-left: 119px;margin-right: 119px;">
+         <div class="container" style="width: 1190px;height: 774px;margin-left: 119px;margin-right: 119px;">
                 <div class="row" style="height: 226px;">
                     <!-- section title -->
                     <div class="col-md-12 col-sm-12 col-xs-12 text-center">
@@ -563,4 +563,247 @@
                     </div>
                 </div>
             </div>
-        </section>
+</section>
+
+<section class="bg-gray builder-bg team-style8 padding-110px-tb xs-padding-60px-tb" id="team-section8" style="height: 631px;">
+            <div class="container" style="width: 1190px;height: 463px;margin-left: 119px;margin-right: 119px;">
+                <div class="row four-column">
+                    <!-- team member -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center sm-margin-fifteen-bottom">
+                        <div class="team position-relative overflow-hidden box-shadow">
+                            <div class="team-img">
+                                <img alt="" src="img/team-08.jpg" data-img-size="(W)750px X (H)893px">
+                            </div>
+                            <div class="team-details bg-white builder-bg text-center">
+                                <div class="team-name padding-twenty no-padding-lr">
+                                    <span class="alt-font text-dark-gray tz-text font-weight-600">ANDREW LUPKIN</span>
+                                    <span class="text-extra-small alt-font display-block tz-text">DEVELOPER HEAD</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-content padding-twenty no-padding-lr no-padding-bottom xs-padding-eleven-top">
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-facebook text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-twitter-alt text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-linkedin text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-pinterest text-extra-medium tz-icon-color"></i></a></div>
+                        </div>
+                    </div>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center sm-margin-fifteen-bottom">
+                        <div class="team position-relative overflow-hidden box-shadow">
+                            <div class="team-img">
+                                <img alt="" src="img/team-01.jpg" data-img-size="(W)750px X (H)893px">
+                            </div>
+                            <div class="team-details bg-white builder-bg text-center">
+                                <div class="team-name padding-twenty no-padding-lr">
+                                    <span class="alt-font text-dark-gray tz-text font-weight-600">SARA SMITH</span>
+                                    <span class="text-extra-small alt-font display-block tz-text">FOUNDER AND CEO</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-content padding-twenty no-padding-lr no-padding-bottom xs-padding-eleven-top">
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-facebook text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-twitter-alt text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-linkedin text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-pinterest text-extra-medium tz-icon-color"></i></a></div>
+                        </div>
+                    </div>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
+                        <div class="team position-relative overflow-hidden box-shadow">
+                            <div class="team-img">
+                                <img alt="" src="img/team-02.jpg" data-img-size="(W)750px X (H)893px">
+                            </div>
+                            <div class="team-details bg-white builder-bg text-center">
+                                <div class="team-name padding-twenty no-padding-lr">
+                                    <span class="alt-font text-dark-gray tz-text font-weight-600">SOMMER CHRISTIAN</span>
+                                    <span class="text-extra-small alt-font display-block tz-text">CREATIVE DIRECTOR</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-content padding-twenty no-padding-lr no-padding-bottom xs-padding-eleven-top">
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-facebook text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-twitter-alt text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-linkedin text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-pinterest text-extra-medium tz-icon-color"></i></a></div>
+                        </div>
+                    </div>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center">
+                        <div class="team position-relative overflow-hidden box-shadow">
+                            <div class="team-img">
+                                <img alt="" src="img/team-03.jpg" data-img-size="(W)750px X (H)893px">
+                            </div>
+                            <div class="team-details bg-white builder-bg text-center"> 
+                                <div class="team-name padding-twenty no-padding-lr">
+                                    <span class="alt-font text-dark-gray tz-text font-weight-600">ANDREW LUPKIN</span>
+                                    <span class="text-extra-small alt-font display-block tz-text">DEVELOPER HEAD</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-content padding-twenty no-padding-lr no-padding-bottom xs-padding-eleven-top">
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-facebook text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-twitter-alt text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-linkedin text-extra-medium tz-icon-color"></i></a></div>
+                            <div class="display-inline-block margin-seven no-margin-tb"><a href="#"><i class="fa ti-pinterest text-extra-medium tz-icon-color"></i></a></div>
+                        </div>
+                    </div>
+                    <!-- end team member -->
+                </div>
+            </div>
+</section>
+
+<section class="padding-110px-tb bg-white builder-bg clients-section2 xs-padding-top-60px">
+<div class="container">
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+<!-- Indicators -->
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+  <li data-target="#demo" data-slide-to="1"></li>
+  <li data-target="#demo" data-slide-to="2"></li>
+  <li data-target="#demo" data-slide-to="3"></li>
+  <li data-target="#demo" data-slide-to="4"></li>
+</ul>
+
+<!-- The slideshow -->
+<div class="row">
+<div class="carousel-inner" style="width:2980px;display: block;">
+  <div class="carousel-item active" style="width: 268px; height:167;">
+    <img src="img/clients-1.jpg" alt="Los Angeles">
+  </div>
+  <div class="carousel-item" style="width: 268px; height:167;">
+    <img src="img/clients-2.jpg" alt="Chicago">
+  </div>
+  <div class="carousel-item" style="width: 268px; height:167;">
+    <img src="img/clients-3.jpg" alt="New York">
+  </div>
+  <div class="carousel-item" style="width: 268px; height:167;">
+    <img src="img/clients-4.jpg" alt="New York">
+  </div>
+  <div class="carousel-item" style="width: 268px; height:167;">
+    <img src="img/clients-5.jpg" alt="New York">
+  </div>
+</div>
+</div>
+
+<!-- Left and right controls -->
+<a class="carousel-control-prev" href="#demo" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+</a>
+<a class="carousel-control-next" href="#demo" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+</a>
+
+</div>
+</div>
+</section>
+
+<section class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
+            <div class="container" style="width: 1190px;height: 439px;margin-left: 119px;margin-right: 119px;">
+                <div class="row" style="height: 439px;">
+                    <div class="col-md-8 center-col col-sm-12 text-center" style="height: 125px;">
+                        <h2 class="title-extra-large-2 letter-spacing-minus-1 text-dark-gray alt-font margin-four-bottom tz-text">Get started free trial!</h2>
+                        <div class="text-extra-large sm-text-extra-large text-medium-gray width-80 xs-width-100 center-col margin-twelve-bottom xs-margin-nineteen-bottom tz-text" style="width: 610px;height: 56px;margin-bottom: 49px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the standard dummy text.</div>
+                    </div>
+                    <div class="col-md-6 center-col col-sm-12 text-center" style="height: 264px;">
+                        <form action="" method="" style="height: 220px;">
+                            <input type="text" name="name" id="name" data-email="required" placeholder="Your Name" class="big-input bg-white alt-font border-radius-4">                    
+                            <input type="text" name="email" id="email" data-email="required" placeholder="Your Email" class="big-input bg-white alt-font border-radius-4">
+                            <button type="submit" class="default-submit btn btn-extra-large2 propClone bg-deep-green btn-3d text-white width-100 builder-bg tz-text">START YOUR FREE TRIAL NOW!</button>                                                    
+                        </form>
+                        <div class="margin-seven-top text-small2 sm-width-100 center-col tz-text xs-line-height-20" style="margin-top: 22px;">* We don't share your personal info with anyone. Check out our <a href="#" class="text-decoration-underline tz-text">Privacy Policy</a> for more information.</div>
+                    </div>
+                </div>
+            </div>
+</section>
+
+<section class="padding-110px-tb bg-white builder-bg xs-padding-60px-tb" id="contact-section5" style="height: 348px;">
+            <div class="container">
+                <div class="row four-column">
+                    <!-- feature box -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center sm-clear-both">
+                        <div class="feature-box xs-margin-thirteen xs-no-margin-tb">     
+                            <i class="fa ti-location-pin text-fast-blue2 icon-large tz-icon-color margin-ten-bottom xs-margin-seven-bottom"></i>
+                            <h3 class="feature-title text-dark-gray text-medium alt-font display-block margin-three-bottom xs-margin-five-bottom tz-text font-weight-600">Contact Address</h3>
+                            <div class="feature-text text-medium center-col tz-text">301 The Greenhouse, Custard,<br>Factory, London, E2 8DY.</div>
+                        </div>
+                    </div>
+                    <!-- end feature box -->
+                    <!-- feature box -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
+                        <div class="feature-box xs-margin-thirteen xs-no-margin-tb">
+                            <i class="fa ti-mobile text-fast-blue2 icon-large tz-icon-color margin-ten-bottom xs-margin-seven-bottom"></i>
+                            <h3 class="feature-title text-dark-gray text-medium alt-font display-block margin-three-bottom xs-margin-five-bottom tz-text font-weight-600">Call Us Today!</h3>
+                            <div class="feature-text text-medium center-col tz-text">(M) +44 (0) 123 456 7890<br>(O) +44 (0) 123 456 7890</div>
+                        </div>
+                    </div>
+                    <!-- end feature box -->
+                    <!-- feature box -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom sm-clear-both">
+                        <div class="feature-box xs-margin-thirteen xs-no-margin-tb">
+                            <i class="fa ti-email text-fast-blue2 icon-large tz-icon-color margin-ten-bottom xs-margin-seven-bottom"></i>
+                            <h3 class="feature-title text-dark-gray text-medium alt-font display-block margin-three-bottom xs-margin-five-bottom tz-text font-weight-600">Email</h3>
+                            <div class="feature-text text-medium center-col"><a class="tz-text" href="mailto:no-reply@domain.com">no-reply@domain.com</a><br><a class="tz-text" href="mailto:help@domain.com">help@domain.com</a></div>
+                        </div>
+                    </div>
+                    <!-- end feature box -->
+                    <!-- feature box -->
+                    <div class="col-md-3 col-sm-6 col-xs-12 text-center">
+                        <div class="feature-box xs-margin-thirteen xs-no-margin-tb">
+                            <i class="fa ti-time text-fast-blue2 icon-large tz-icon-color margin-ten-bottom xs-margin-seven-bottom"></i>
+                            <h3 class="feature-title text-dark-gray text-medium alt-font display-block margin-three-bottom xs-margin-five-bottom tz-text font-weight-600">Working Hours</h3>
+                            <div class="feature-text text-medium center-col tz-text">Mon to Sat - 9 AM to 11 PM<br>Sunday - 10 AM to 6 PM</div>
+                        </div>
+                    </div>
+                    <!-- end feature box -->
+                </div>
+            </div>
+</section>
+
+<footer id="footer-section4" class="bg-white builder-bg padding-60px-tb xs-padding-40px-tb footer-style4">
+            <div class="container">
+                <div class="row equalize sm-equalize-auto">
+                    <!-- logo -->
+                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 sm-text-center sm-margin-five-bottom xs-margin-nine-bottom display-table">
+                        <div class="display-table-cell-vertical-middle">
+                            <a href="#home" class="inner-link"><img src="img/logo.png" alt="" data-img-size="(W)163px X (H)39px"></a>
+                        </div>
+                    </div>
+                    <!-- end logo -->
+                    <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 sm-margin-three-bottom text-center xs-text-center display-table1">
+                        <div class="display-table-cell-vertical-middle">
+                            <span class="tz-text">&copy; 2016 LeadGen is Proudly Powered By <a class="text-light-gray2" href="#">ThemeZaa</a>.</span>
+                        </div>
+                    </div>
+                    <!-- social elements -->
+                    <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 text-right sm-text-center display-table1" style="height: 39px;">
+                        <div class="social icon-extra-small display-table-cell-vertical-middle">
+                            <a href="#" class="margin-sixteen-right">
+                                <i class="fa fa-facebook tz-icon-color"></i>
+                            </a>
+                            <a href="#" class="margin-sixteen-right">
+                                <i class="fa fa-twitter tz-icon-color"></i>
+                            </a>
+                            <a href="#" class="margin-sixteen-right">
+                                <i class="fa fa-google-plus tz-icon-color"></i>
+                            </a>
+                            <a href="#" class="margin-sixteen-right">
+                                <i class="fa fa-pinterest tz-icon-color"></i>
+                            </a>
+                            <a href="#" class="margin-sixteen-right">
+                                <i class="fa fa-linkedin tz-icon-color"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-youtube tz-icon-color"></i>
+                            </a>
+                        </div>
+                    </div>                            
+                    <!-- end social elements -->
+                </div>
+            </div>    
+</footer>

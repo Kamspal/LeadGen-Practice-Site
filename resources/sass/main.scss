@@ -48,7 +48,7 @@ header .row {
     display: block;
 }
 
-.social a{
+nav .social a{
     color: #fff;
     font-size: 14px;
     margin: 0 9px;
@@ -491,8 +491,90 @@ section {
     font-size: 14px;
 }
 
-footer{
-    background: #fff;
-    padding: 20px;
-    text-align: center;
-} 
+.display-block {
+    display: block !important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100%;
+    height: auto;
+}
+
+.box-shadow {
+    box-shadow: 0 0 3px rgba(0,0,0, .2) !important;
+}
+
+.no-padding-bottom {
+    padding-bottom: 0 !important;
+}
+
+.padding-twenty {
+    padding: 10.5% !important;
+}
+
+.no-margin-tb {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+.margin-seven {
+    margin: 4% !important;
+}
+
+.team-content a i{
+    color: #707070;
+}
+
+.icon-extra-small {
+    font-size: 14px !important;
+}
+
+.margin-sixteen-right {
+    margin-right: 8.5% !important;
+}
+
+.big-input, .big-textarea, .big-select select {
+    padding: 18px 25px;
+    border: 1px solid rgba(0,0,0,.1) !important;
+    font-size: 14px !important;
+}
+
+.border-radius-4 {
+    border-radius: 4px !important;
+}
+
+input{
+    border: 1px solid #dfdfdf;
+    font-size: 11px;
+    padding: 8px 15px;
+    width: 100%;
+    margin: 0 0 20px 0;
+    max-width: 100%;
+    resize: none;
+    outline: 0;
+}
+
+.bg-deep-green {
+    background: #6aa84f;
+}
+
+.btn.btn-extra-large2 {
+    font-size: 16px;
+    padding: 18px 30px !important;
+    line-height: 20px;
+}
+.btn-3d {
+    border-bottom: 3px solid rgba(0,0,0,0.2) !important;
+}
+
+a {
+    text-decoration: none;
+    color: #4e4e4e;
+    cursor: pointer !important;
+    outline: 0;
+}
+
+.display-table1{
+    display: table;
+}
