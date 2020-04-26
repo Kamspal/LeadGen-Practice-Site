@@ -25,7 +25,7 @@
              <!-- End social elements -->
 
     <div class="collapse navbar-collapse pull-right" id="navbarNav">
-        <ul class="nav navbar-nav">
+        <ul class="nav nav-navbar">
             <li class="nav-item">
                 <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
             </li>
@@ -657,50 +657,80 @@
 </section>
 
 <section class="padding-110px-tb bg-white builder-bg clients-section2 xs-padding-top-60px">
-<div class="container">
-
-<div id="demo" class="carousel slide" data-ride="carousel">
-
-<!-- Indicators -->
-<ul class="carousel-indicators">
-  <li data-target="#demo" data-slide-to="0" class="active"></li>
-  <li data-target="#demo" data-slide-to="1"></li>
-  <li data-target="#demo" data-slide-to="2"></li>
-  <li data-target="#demo" data-slide-to="3"></li>
-  <li data-target="#demo" data-slide-to="4"></li>
-</ul>
-
-<!-- The slideshow -->
-<div class="row">
-<div class="carousel-inner" style="width:2980px;display: block;">
-  <div class="carousel-item active" style="width: 268px; height:167;">
-    <img src="img/clients-1.jpg" alt="Los Angeles">
-  </div>
-  <div class="carousel-item" style="width: 268px; height:167;">
-    <img src="img/clients-2.jpg" alt="Chicago">
-  </div>
-  <div class="carousel-item" style="width: 268px; height:167;">
-    <img src="img/clients-3.jpg" alt="New York">
-  </div>
-  <div class="carousel-item" style="width: 268px; height:167;">
-    <img src="img/clients-4.jpg" alt="New York">
-  </div>
-  <div class="carousel-item" style="width: 268px; height:167;">
-    <img src="img/clients-5.jpg" alt="New York">
-  </div>
-</div>
-</div>
-
-<!-- Left and right controls -->
-<a class="carousel-control-prev" href="#demo" data-slide="prev">
-  <span class="carousel-control-prev-icon"></span>
-</a>
-<a class="carousel-control-next" href="#demo" data-slide="next">
-  <span class="carousel-control-next-icon"></span>
-</a>
-
-</div>
-</div>
+            <div class="container" style="width: 1190px;">
+                <div class="row" style="height: 168px;">
+                    <!-- clients logo -->
+                    <div class="owl-carousel">
+                        <!-- client logo image -->
+                        <div class="item">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="client-logo-outer">
+                                    <div class="client-logo-inner">
+                                        <a href="#">
+                                            <img src="img/clients-1.jpg" id="tz-bg-149" data-img-size="(W)800px X (H)500px" alt=""/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>                               
+                        </div>
+                        <!-- end client logo image -->
+                        <!-- client logo image -->
+                        <div class="item">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="client-logo-outer">
+                                    <div class="client-logo-inner">
+                                        <a href="#">
+                                            <img src="img/clients-2.jpg" id="tz-bg-150" data-img-size="(W)800px X (H)500px" alt=""/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>                               
+                        </div>
+                        <!-- client logo image -->
+                        <!-- end client logo image -->
+                        <div class="item">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="client-logo-outer">
+                                    <div class="client-logo-inner">
+                                        <a href="#">
+                                            <img src="img/clients-3.jpg" id="tz-bg-151" data-img-size="(W)800px X (H)500px" alt=""/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>                               
+                        </div>
+                        <!-- client logo image -->
+                        <!-- end client logo image -->
+                        <div class="item">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="client-logo-outer">
+                                    <div class="client-logo-inner">
+                                        <a href="#">
+                                            <img src="img/clients-4.jpg" id="tz-bg-152" data-img-size="(W)800px X (H)500px" alt=""/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>                               
+                        </div>
+                        <!-- client logo image -->
+                        <!-- end client logo image -->
+                        <div class="item">
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="client-logo-outer">
+                                    <div class="client-logo-inner">
+                                        <a href="#">
+                                            <img src="img/clients-5.jpg" id="tz-bg-153" data-img-size="(W)800px X (H)500px" alt=""/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>                               
+                        </div>
+                        <!-- client logo image -->
+                    <!-- end clients logo -->
+                        </div>
+                    </div>
+            </div>
+        </div>
 </section>
 
 <section class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
@@ -712,8 +742,8 @@
                     </div>
                     <div class="col-md-6 center-col col-sm-12 text-center" style="height: 264px;">
                         <form action="" method="" style="height: 220px;">
-                            <input type="text" name="name" id="name" data-email="required" placeholder="Your Name" class="big-input bg-white alt-font border-radius-4">                    
-                            <input type="text" name="email" id="email" data-email="required" placeholder="Your Email" class="big-input bg-white alt-font border-radius-4">
+                            <input type="text" name="name" id="name" data-email="required" placeholder="Your Name" class="big-input bg-white alt-font border-radius-4" style="width: 580px;margin-bottom: 20px;">                    
+                            <input type="text" name="email" id="email" data-email="required" placeholder="Your Email" class="big-input bg-white alt-font border-radius-4" style="width: 580px;margin-bottom: 20px;">
                             <button type="submit" class="default-submit btn btn-extra-large2 propClone bg-deep-green btn-3d text-white width-100 builder-bg tz-text">START YOUR FREE TRIAL NOW!</button>                                                    
                         </form>
                         <div class="margin-seven-top text-small2 sm-width-100 center-col tz-text xs-line-height-20" style="margin-top: 22px;">* We don't share your personal info with anyone. Check out our <a href="#" class="text-decoration-underline tz-text">Privacy Policy</a> for more information.</div>
@@ -771,7 +801,7 @@
                     <!-- logo -->
                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 sm-text-center sm-margin-five-bottom xs-margin-nine-bottom display-table">
                         <div class="display-table-cell-vertical-middle">
-                            <a href="#home" class="inner-link"><img src="img/logo.png" alt="" data-img-size="(W)163px X (H)39px"></a>
+                            <a href="#home" class="inner-link"><img src="img/logo.png" alt=""></a>
                         </div>
                     </div>
                     <!-- end logo -->
@@ -807,3 +837,15 @@
                 </div>
             </div>    
 </footer>
+
+        <div class="buy-theme alt-font xs-display-none">
+            <a href="#" target="_blank">
+            <span>Purchase Theme</span>
+            </a>
+        </div>
+        <div class="quick-question alt-font xs-display-none">
+            <a href="#">
+            <span>All Templates</span>
+            </a>
+        </div>
+

@@ -2,6 +2,14 @@
     -webkit-font-smoothing: antialiased;
 }
 
+nav.navbar.shrink {
+    padding: 11px 0;
+    background: #000;
+    // Animation
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
 ::-webkit-scrollbar {
     width: 12px;
 }
@@ -67,11 +75,6 @@ nav .social a{
 
 .nav-button-border {
     border-bottom: 1px solid rgba(255,255,255,.1);
-}
-
-
-nav.scrolled{
-    background: #000 !important;
 }
 
 .navbar{
@@ -544,17 +547,6 @@ img {
     border-radius: 4px !important;
 }
 
-input{
-    border: 1px solid #dfdfdf;
-    font-size: 11px;
-    padding: 8px 15px;
-    width: 100%;
-    margin: 0 0 20px 0;
-    max-width: 100%;
-    resize: none;
-    outline: 0;
-}
-
 .bg-deep-green {
     background: #6aa84f;
 }
@@ -568,6 +560,40 @@ input{
     border-bottom: 3px solid rgba(0,0,0,0.2) !important;
 }
 
+.owl-nav {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+}
+
+.owl-prev, .owl-next {
+    position: absolute;
+    height: 90px;
+    color: inherit;
+    background: none;
+    border: none;
+    z-index: 100;
+}
+
+.owl-prev i, .owl-next i{
+    font-size: 1.5rem;
+}
+.owl-prev {
+    left: -60px;
+}
+
+.owl-next {
+    right: -60px;
+}
+
+.owl-nav button:focus {outline:0;}
+
+.owl-dots {
+    margin-top: 10px;
+    display: none;
+}
+
 a {
     text-decoration: none;
     color: #4e4e4e;
@@ -577,4 +603,54 @@ a {
 
 .display-table1{
     display: table;
+}
+
+.buy-theme {
+    position:fixed;
+    top:115px;
+    font-weight: 500 !important;
+    font-family: 'Montserrat', sans-serif !important;
+    border-radius: 4px;
+    line-height: 22px;
+    right: -151px;
+    background: url('img/buy-theme.png') no-repeat 14px center rgba(50,50,50,.8);
+    z-index: 1000;
+    transition: 0.5s;
+}
+
+.buy-theme:hover, .quick-question:hover {
+    right: -26px
+}
+
+.buy-theme span, .quick-question span {
+    padding:0 28px;
+    position: relative; 
+    top:0; 
+    opacity: 0
+}
+
+.buy-theme:hover span, .quick-question:hover span {
+    opacity: 1
+}
+
+.buy-theme a, .quick-question a {
+    color: #fff; 
+    font-size: 10px; 
+    letter-spacing: 1px; 
+    text-transform: uppercase; 
+    padding:8px 15px; 
+    display: block 
+}
+
+.quick-question {
+    position:fixed;
+    top:165px;
+    font-weight: 500 !important;
+    font-family: 'Montserrat', sans-serif !important;
+    border-radius: 4px;
+    line-height: 22px;
+    right: -135px;
+    background: url('img/quick-question.png') no-repeat 14px center rgba(50,50,50,.8);
+    z-index: 10;
+    transition: 0.5s;
 }
