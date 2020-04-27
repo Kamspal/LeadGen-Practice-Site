@@ -1,14 +1,12 @@
 <!-- NavBar -->
 <header class="content">
-    <nav class="navbar navbar-expand-md fixed-top nav-button-border">
+    <nav class="navbar navbar-expand-md fixed-top nav-button-border dark-mode">
         <div class="container">
             <div class="row">
         
             <!-- Logo -->
             <div class="col-md-3 col-sm-4 col-xs-6 active">
-    <a class="navbar-brand" href="#">
-            <img src="img/logo-white.png" alt="company logo" height="35px" width="143px">
-    </a>
+                <a href="#" class="scroll-top"><img src="img/logo-white.png" alt="" height="35px" width="143px"></a>
             </div> 
             <!-- end logo -->
         <div class="col-md-9 col-sm-8 col-xs-6">      
@@ -25,24 +23,24 @@
              <!-- End social elements -->
 
     <div class="collapse navbar-collapse pull-right" id="navbarNav">
-        <ul class="nav nav-navbar">
+        <ul class="nav navbar">
             <li class="nav-item">
-                <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+                <a id="about-menu" class="nav-link scroll" href="#about">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
+                <a id="features-menu" class="nav-link scroll" href="#features">Features</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">How it work</a>
+                <a id="how-it-work-menu" class="nav-link scroll" href="#how-it-work">How it work</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
+                <a id="pricing-menu" class="nav-link scroll" href="#pricing">Pricing</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Download</a>
+                <a id="download-menu" class="nav-link scroll" href="#download">Download</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a id="contact-menu" class="nav-link scroll" href="#contact">Contact</a>
             </li>
         </ul>
     </div>
@@ -54,8 +52,7 @@
 <!-- End NavBar -->
 
 <!-- BackgroundImage -->
-<section class="image" style="background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)) repeat scroll 0% 0%, transparent url(img/hero-bg12.jpg) repeat scroll 0% 0%;
-" width="1920px" height="800px">
+<section class="image" style="background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)) repeat scroll 0% 0%, transparent url(img/hero-bg12.jpg) repeat scroll 0% 0%;">
     <div class="container one-sixth-screen xs-height-auto position-relative">
         <div class="row">
             <div class="slider-typography xs-position-static text-center">
@@ -77,12 +74,12 @@
                 <!-- end Title -->
 
     <div class="btn-dual">
-        <a class="btn btn-large propClone bg-golden-yellow text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#">
+        <a class="btn btn-large propClone bg-golden-yellow text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#download">
     <span class="tz-text">Download Now</span>
     <i class="fa fa-shopping-basket text-extra-medium tz-icon-color"></i>
         </a>
-        <a class="btn btn-large propClone bg-white text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#">
-        <span class="tz-text">Read More</span>
+        <a class="btn btn-large propClone bg-white text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#about">
+        <span class="text1">Read More</span>
     <i class="fa fa-angle-right text-extra-medium tz-icon-color"></i>
         </a>
     </div>
@@ -109,7 +106,7 @@
                 <div class="display-inline-block sm-display-block vertical-align-middle margin-five-right sm-no-margin-right sm-margin-ten-bottom tz-text alt-font text-dark-gray text-extra-large sm-text-extra-large">
                     Create Your Account Now! Get 30 days trial. No credit card required.
                     </div>
-                    <a class="btn-medium btn text-fast-blue2 border-2-fast-blue2 btn-circle" href="#">
+                    <a class="btn-medium btn text-fast-blue2 border-2-fast-blue2 btn-circle" href="#download">
                         <span class="tz-text">Register Today</span>
                         <i class="fa fa-long-arrow-right text-extra-medium tz-icon-color">
                         </i>
@@ -120,10 +117,10 @@
     </div>
 </section>
 
-<section class="builder-bg padding-110px-tb xs-padding-60px-tb bg-white">
+<section id="about" class="builder-bg padding-110px-tb xs-padding-60px-tb bg-white">
     <div class="container" style="height:161px">
         <div class="row four-column">
-<!-- 1st Feature-Box -->
+   <!-- 1st Feature-Box -->
     <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
@@ -140,9 +137,9 @@
         </div>
     </div>
 </div>
-<!-- End feature-box -->
+    <!-- End feature-box -->
 
-<!-- 2nd Feature-box -->
+    <!-- 2nd Feature-box -->
 <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
@@ -159,9 +156,9 @@
         </div>
     </div>
 </div>
-<!-- end 2nd feature-box -->
+    <!-- end 2nd feature-box -->
 
-<!-- 3rd Feature-box -->
+    <!-- 3rd Feature-box -->
 <div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
@@ -178,9 +175,9 @@
         </div>
     </div>
 </div>
-<!-- end 3rd feature-box -->
+    <!-- end 3rd feature-box -->
 
-<!-- 4th Feature-box -->
+    <!-- 4th Feature-box -->
 <div class="col-md-3 col-sm-6 col-xs-12 text-center">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
@@ -197,12 +194,12 @@
         </div>
     </div>
 </div>
-<!-- end 4th feature-box -->
+    <!-- end 4th feature-box -->
         </div>
     </div>
 </section>
 
-<section class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="width: 1428px;height: 904px;">
+<section id="features" class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="width: 1428px;height: 904px;">
     <div class="container" style="margin-left: 145px;margin-right: 119px;width: 1020px;height: 686px;">
     <div class="row equalize xs-equalize-auto equalize-display-inherit" style="height: 646px;">
         <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
@@ -323,7 +320,7 @@
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the an unknown printer took a galley of type scrambled it to make a type specimen book.
                     </p>
                 </div>
-                <a class="btn-medium btn-circle btn border-2-fast-blue2 btn-border text-fast-blue2" href="#">
+                <a class="btn-medium btn-circle btn border-2-fast-blue2 btn-border text-fast-blue2" href="#download">
                     <span class="tz-text">
                         BUILD WEBSITE
                     </span>
@@ -336,7 +333,7 @@
     </div>
 </section>
 
-<section class="no-padding cover-background tz-builder-bg-image border-none header-style25 bg-img-two" style="background:linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url('img/header-25.jpg'); height: 801px;width: 1428px;">
+<section id="how-it-work" class="no-padding cover-background tz-builder-bg-image border-none header-style25 bg-img-two" style="background:linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url('img/header-25.jpg'); height: 801px;width: 1428px;">
     <div class="container one-fourth-screen sm-height-auto position-relative">
         <div class="slider-typography text-center sm-position-relative">
             <div class="slider-text-middle-main">
@@ -431,7 +428,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer.
                         </p>
                     </div>
-                       <a class="btn propClone btn-circle bg-fast-blue2 text-white" href="#" style="width: 220px;">
+                       <a class="btn propClone btn-circle bg-fast-blue2 text-white" href="#download" style="width: 220px;">
                            <span class="tz-text">Create your account</span>
                                 <i class="fa fa-angle-right text-extra-medium tz-icon-color" style="height: 24px;">
                                 </i>
@@ -447,7 +444,7 @@
     </div>
 </section>
 
-<section class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
+<section id="pricing" class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
          <div class="container" style="width: 1190px;height: 774px;margin-left: 119px;margin-right: 119px;">
                 <div class="row" style="height: 226px;">
                     <!-- section title -->
@@ -733,7 +730,7 @@
         </div>
 </section>
 
-<section class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
+<section id="download" class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
             <div class="container" style="width: 1190px;height: 439px;margin-left: 119px;margin-right: 119px;">
                 <div class="row" style="height: 439px;">
                     <div class="col-md-8 center-col col-sm-12 text-center" style="height: 125px;">
@@ -752,7 +749,7 @@
             </div>
 </section>
 
-<section class="padding-110px-tb bg-white builder-bg xs-padding-60px-tb" id="contact-section5" style="height: 348px;">
+<section id="contact" class="padding-110px-tb bg-white builder-bg xs-padding-60px-tb" id="contact-section5" style="height: 348px;">
             <div class="container">
                 <div class="row four-column">
                     <!-- feature box -->
@@ -794,49 +791,6 @@
                 </div>
             </div>
 </section>
-
-<footer id="footer-section4" class="bg-white builder-bg padding-60px-tb xs-padding-40px-tb footer-style4">
-            <div class="container">
-                <div class="row equalize sm-equalize-auto">
-                    <!-- logo -->
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 sm-text-center sm-margin-five-bottom xs-margin-nine-bottom display-table">
-                        <div class="display-table-cell-vertical-middle">
-                            <a href="#home" class="inner-link"><img src="img/logo.png" alt=""></a>
-                        </div>
-                    </div>
-                    <!-- end logo -->
-                    <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 sm-margin-three-bottom text-center xs-text-center display-table1">
-                        <div class="display-table-cell-vertical-middle">
-                            <span class="tz-text">&copy; 2016 LeadGen is Proudly Powered By <a class="text-light-gray2" href="#">ThemeZaa</a>.</span>
-                        </div>
-                    </div>
-                    <!-- social elements -->
-                    <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 text-right sm-text-center display-table1" style="height: 39px;">
-                        <div class="social icon-extra-small display-table-cell-vertical-middle">
-                            <a href="#" class="margin-sixteen-right">
-                                <i class="fa fa-facebook tz-icon-color"></i>
-                            </a>
-                            <a href="#" class="margin-sixteen-right">
-                                <i class="fa fa-twitter tz-icon-color"></i>
-                            </a>
-                            <a href="#" class="margin-sixteen-right">
-                                <i class="fa fa-google-plus tz-icon-color"></i>
-                            </a>
-                            <a href="#" class="margin-sixteen-right">
-                                <i class="fa fa-pinterest tz-icon-color"></i>
-                            </a>
-                            <a href="#" class="margin-sixteen-right">
-                                <i class="fa fa-linkedin tz-icon-color"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fa fa-youtube tz-icon-color"></i>
-                            </a>
-                        </div>
-                    </div>                            
-                    <!-- end social elements -->
-                </div>
-            </div>    
-</footer>
 
         <div class="buy-theme alt-font xs-display-none">
             <a href="#" target="_blank">

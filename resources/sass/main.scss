@@ -1,9 +1,15 @@
 *{
+    margin: 0;
+    padding: 0;
     -webkit-font-smoothing: antialiased;
 }
 
+body{
+    position: relative;
+}
+
 nav.navbar.shrink {
-    padding: 11px 0;
+    padding: 10px 5px 0;
     background: #000;
     // Animation
     -webkit-transition: all 0.4s ease;
@@ -78,7 +84,7 @@ nav .social a{
 }
 
 .navbar{
-    padding: 20px 0;
+    padding: 15px 0;
     font-weight: 500 !important;
 }
 
@@ -91,12 +97,15 @@ nav .social a{
     font-size: 11px;
     color: #fff;
     text-transform: uppercase;
-    border-bottom: 1px solid transparent;
     text-decoration: none;
 }
 
 #navbarNav li a:hover{
     opacity: 0.5;
+}
+
+.dark-mode.navbar li.active a {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 #navbarNav ul{
@@ -194,7 +203,7 @@ p {
 
 .btn-circle.btn-large {
     font-size: 18px;
-    padding: 12px 30px !important;
+    padding: 15px 40px !important;
     line-height: 18px;
 }
 
@@ -580,11 +589,11 @@ img {
     font-size: 1.5rem;
 }
 .owl-prev {
-    left: -60px;
+    left: -40px;
 }
 
 .owl-next {
-    right: -60px;
+    right: -40px;
 }
 
 .owl-nav button:focus {outline:0;}
@@ -615,7 +624,7 @@ a {
     right: -151px;
     background: url('img/buy-theme.png') no-repeat 14px center rgba(50,50,50,.8);
     z-index: 1000;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .buy-theme:hover, .quick-question:hover {
@@ -652,5 +661,6 @@ a {
     right: -135px;
     background: url('img/quick-question.png') no-repeat 14px center rgba(50,50,50,.8);
     z-index: 10;
-    transition: 0.5s;
+    transition: 0.3s;
 }
+
