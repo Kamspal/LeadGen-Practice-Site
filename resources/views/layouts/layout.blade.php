@@ -26,7 +26,7 @@
       @include('parallax')
     
 
-<footer id="footer-section4" class="bg-white builder-bg padding-60px-tb xs-padding-40px-tb footer-style4">
+  <footer id="footer-section4" class="bg-white builder-bg padding-60px-tb xs-padding-40px-tb footer-style4">
             <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <!-- logo -->
@@ -76,9 +76,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/slideNav.js"></script>
     <!-- Change color on scroll and shrink-->
     <script>
-      $(window).scroll(function(){
+        $(window).scroll(function(){
         $('nav').toggleClass('shrink', $(this).scrollTop() > 50)
         });
        
@@ -87,6 +88,9 @@
     <!-- End change color on scroll and shrink -->
      
     <!-- smooth scrolling while clicking on nav menu -->
+
+
+    <!-- Onclick nav-border switching -->
     <script>
 
         $(document).ready(function() {
@@ -134,7 +138,7 @@
                 
                 scrollLink.each(function() {
                   
-                  var sectionOfSet = $(this.hash).offset().top - 20;
+                  var sectionOfSet = $(this.hash).offset().top - 10;
                   if ( sectionOfSet <= scrollBarLocation ) {
                     $(this.hash+"-menu").parent().addClass('active');
                     $(this.hash+"-menu").parent().siblings().removeClass('active');
@@ -145,6 +149,9 @@
           });
 
         }); 
+
+      
+        
       
      
     </script>
@@ -172,19 +179,19 @@
         },
         
     }
-})
-var owl = $('.owl-carousel');
-owl.owlCarousel();
-// Go to the next item
-$('i').click(function() {
-    owl.trigger('next.owl.carousel');
-})
-// Go to the previous item
-$('i').click(function() {
-    // With optional speed parameter
-    // Parameters has to be in square bracket '[]'
-    owl.trigger('prev.owl.carousel');
-})
+ })
+        var owl = $('.owl-carousel');
+        owl.owlCarousel();
+        // Go to the next item
+        $('i').click(function() {
+            owl.trigger('next.owl.carousel');
+        })
+        // Go to the previous item
+        $('i').click(function() {
+            // With optional speed parameter
+            // Parameters has to be in square bracket '[]'
+            owl.trigger('prev.owl.carousel');
+        })
 </script>
     <!-- end image-slider -->
 

@@ -25,22 +25,22 @@
     <div class="collapse navbar-collapse pull-right" id="navbarNav">
         <ul class="nav navbar">
             <li class="nav-item">
-                <a id="about-menu" class="nav-link scroll" href="#about">About</a>
+                <a id="about-menu" data-scroll="about" class="nav-link scroll" href="#about">About</a>
             </li>
             <li class="nav-item">
-                <a id="features-menu" class="nav-link scroll" href="#features">Features</a>
+                <a id="features-menu" data-scroll="features" class="nav-link scroll" href="#features">Features</a>
             </li>
             <li class="nav-item">
-                <a id="how-it-work-menu" class="nav-link scroll" href="#how-it-work">How it work</a>
+                <a id="how-it-work-menu" data-scroll="how-it-work" class="nav-link scroll" href="#how-it-work">How it work</a>
             </li>
             <li class="nav-item">
-                <a id="pricing-menu" class="nav-link scroll" href="#pricing">Pricing</a>
+                <a id="pricing-menu" data-scroll="pricing" class="nav-link scroll" href="#pricing">Pricing</a>
             </li>
             <li class="nav-item">
-                <a id="download-menu" class="nav-link scroll" href="#download">Download</a>
+                <a id="download-menu" data-scroll="download" class="nav-link scroll" href="#download">Download</a>
             </li>
             <li class="nav-item">
-                <a id="contact-menu" class="nav-link scroll" href="#contact">Contact</a>
+                <a id="contact-menu" data-scroll="contact" class="nav-link scroll" href="#contact">Contact</a>
             </li>
         </ul>
     </div>
@@ -117,7 +117,7 @@
     </div>
 </section>
 
-<section id="about" class="builder-bg padding-110px-tb xs-padding-60px-tb bg-white">
+<section id="about" data-anchor="about" class="builder-bg padding-110px-tb xs-padding-60px-tb bg-white">
     <div class="container" style="height:161px">
         <div class="row four-column">
    <!-- 1st Feature-Box -->
@@ -136,11 +136,11 @@
             </p>
         </div>
     </div>
-</div>
+  </div>
     <!-- End feature-box -->
 
     <!-- 2nd Feature-box -->
-<div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
+ <div class="col-md-3 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
                 <i class="fa ti-clipboard text-fast-blue2 icon-large tz-icon-color">
@@ -155,11 +155,11 @@
             </p>
         </div>
     </div>
-</div>
+  </div>
     <!-- end 2nd feature-box -->
 
     <!-- 3rd Feature-box -->
-<div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
+ <div class="col-md-3 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
                 <i class="fa ti-settings text-fast-blue2 icon-large tz-icon-color">
@@ -174,11 +174,11 @@
             </p>
         </div>
     </div>
-</div>
+  </div>
     <!-- end 3rd feature-box -->
 
     <!-- 4th Feature-box -->
-<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+  <div class="col-md-3 col-sm-6 col-xs-12 text-center">
         <div class="feature-box">
             <div class="margin-fifteen-bottom xs-margin-five-bottom">
                 <i class="fa ti-panel text-fast-blue2 icon-large tz-icon-color">
@@ -193,13 +193,13 @@
             </p>
         </div>
     </div>
-</div>
+   </div>
     <!-- end 4th feature-box -->
         </div>
     </div>
 </section>
 
-<section id="features" class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="width: 1428px;height: 904px;">
+<section id="features" data-anchor="features" class="padding-110px-tb feature-style29 bg-light-gray builder-bg xs-padding-60px-tb" style="width: 1428px;height: 904px;">
     <div class="container" style="margin-left: 145px;margin-right: 119px;width: 1020px;height: 686px;">
     <div class="row equalize xs-equalize-auto equalize-display-inherit" style="height: 646px;">
         <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto" style="height: 686px;">
@@ -333,7 +333,7 @@
     </div>
 </section>
 
-<section id="how-it-work" class="no-padding cover-background tz-builder-bg-image border-none header-style25 bg-img-two" style="background:linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url('img/header-25.jpg'); height: 801px;width: 1428px;">
+<section id="how-it-work"data-anchor="how-it-work"  class="no-padding cover-background tz-builder-bg-image border-none header-style25 bg-img-two" style="background:linear-gradient(rgba(0,0,0,0.01), rgba(0,0,0,0.01)), url('img/header-25.jpg'); height: 801px;width: 1428px;">
     <div class="container one-fourth-screen sm-height-auto position-relative">
         <div class="slider-typography text-center sm-position-relative">
             <div class="slider-text-middle-main">
@@ -444,7 +444,7 @@
     </div>
 </section>
 
-<section id="pricing" class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
+<section id="pricing" data-anchor="pricing" class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb" id="pricing-table4" style="height: 995px;">
          <div class="container" style="width: 1190px;height: 774px;margin-left: 119px;margin-right: 119px;">
                 <div class="row" style="height: 226px;">
                     <!-- section title -->
@@ -730,7 +730,7 @@
         </div>
 </section>
 
-<section id="download" class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
+<section id="download" data-anchor="download" class="padding-110px-tb xs-padding-60px-tb bg-light-gray builder-bg" id="subscribe-section6" style="height: 660px;">
             <div class="container" style="width: 1190px;height: 439px;margin-left: 119px;margin-right: 119px;">
                 <div class="row" style="height: 439px;">
                     <div class="col-md-8 center-col col-sm-12 text-center" style="height: 125px;">
@@ -749,7 +749,7 @@
             </div>
 </section>
 
-<section id="contact" class="padding-110px-tb bg-white builder-bg xs-padding-60px-tb" id="contact-section5" style="height: 348px;">
+<section id="contact" data-anchor="contact" class="padding-110px-tb bg-white builder-bg xs-padding-60px-tb" id="contact-section5" style="height: 348px;">
             <div class="container">
                 <div class="row four-column">
                     <!-- feature box -->
